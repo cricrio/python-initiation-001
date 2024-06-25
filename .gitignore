@@ -1,0 +1,7 @@
+.env
+__pycache__/
+
+.venv/
+ 
+# Fichiers de cache
+*.pyc
