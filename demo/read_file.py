@@ -65,4 +65,4 @@ def write_at_end_():
         print("File not found")
 
 
-write()
+def better

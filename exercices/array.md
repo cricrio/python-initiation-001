@@ -82,4 +82,4 @@ Exercice 3:
 Exercice 4:
 Écrire une fonction Python qui prend en entrée un dictionnaire de listes d'entiers et renvoie un nouveau dictionnaire avec la moyenne de chaque liste.
 
-=> Exercice 5: Faire une function qui prend en entrée une chaine de caractères et renvoie une dictionnaire contenant chaques lettres et leur fréquences d'apparition   
+=> Exercice 5: Faire une function qui prend en entrée une chaine de caractères et renvoie une dictionnaire contenant chaques lettres et leur fréquences d'apparition.   
