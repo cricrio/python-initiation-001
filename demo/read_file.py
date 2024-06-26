@@ -55,4 +55,14 @@ def read_by_line():
         print("File not found")
 
 
+def write_at_end_():
+    try:
+        with open("demo.txt", "r+w") as file:
+            file.write("Bye, bye")
+            data = file.read()
+            print(data)
+    except FileNotFoundError:
+        print("File not found")
+
+
 write()
